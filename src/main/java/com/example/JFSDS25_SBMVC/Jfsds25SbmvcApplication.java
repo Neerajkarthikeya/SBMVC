@@ -8,6 +8,7 @@ public class Jfsds25SbmvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Jfsds25SbmvcApplication.class, args);
+		System.out.println("welcome to SB");
 	}
 
 }
